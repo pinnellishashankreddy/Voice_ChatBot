@@ -1,0 +1,26 @@
+{
+  "vocab_size": 234,
+  "max_len": 8,
+  "num_classes": 18,
+  "classes": [
+    "account_help",
+    "cancel_order",
+    "complaint",
+    "contact",
+    "general_question",
+    "goodbye",
+    "greeting",
+    "help",
+    "location",
+    "order_status",
+    "password_reset",
+    "payment",
+    "pricing",
+    "refund",
+    "services",
+    "technical_support",
+    "thanks",
+    "working_hours"
+  ],
+  "default_confidence_threshold": 0.6
+}

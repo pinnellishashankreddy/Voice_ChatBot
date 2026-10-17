@@ -1,0 +1,84 @@
+{
+  "responses": {
+    "greeting": [
+      "Hello! Welcome to VocaMind. How can I help you today?",
+      "Hi there! How may I assist you today?",
+      "Greetings! What can VocaMind do for you today?"
+    ],
+    "goodbye": [
+      "Goodbye! Have a fantastic day ahead.",
+      "Thank you for chatting with VocaMind. Take care!",
+      "See you later! Feel free to talk to me whenever you need help."
+    ],
+    "thanks": [
+      "You're very welcome! I'm glad I could help.",
+      "My pleasure! Let me know if you need anything else.",
+      "Anytime! I am here to assist you."
+    ],
+    "help": [
+      "I am VocaMind, your voice-enabled AI chatbot! I can answer questions about business hours, pricing, orders, account reset, support, and more. Try speaking or typing your question.",
+      "Here is what I can help with: Account assistance, order tracking, refund policies, technical support, working hours, and pricing plans. Just ask me!"
+    ],
+    "working_hours": [
+      "Our customer support and business operations are active Monday through Friday from 9:00 AM to 6:00 PM EST, and Saturday from 10:00 AM to 4:00 PM EST.",
+      "We are open Monday to Friday (9 AM - 6 PM EST) and Saturday (10 AM - 4 PM EST). We are closed on Sundays."
+    ],
+    "location": [
+      "Our headquarters is located at 100 AI Tech Boulevard, Suite 500, Tech City, CA 94016.",
+      "VocaMind is headquartered in Tech City, California, with global cloud support operations worldwide."
+    ],
+    "contact": [
+      "You can reach our customer support team by email at support@vocamind.ai or call us toll-free at +1 (800) 555-VOCAMIND.",
+      "Feel free to email us at support@vocamind.ai or give us a call at +1 (800) 555-8622."
+    ],
+    "services": [
+      "VocaMind provides automated Speech Recognition, Deep Learning Intent Classification, Intelligent Response Generation, and Voice Synthesis solutions for enterprise and academic applications.",
+      "We offer natural voice interface integration, deep learning NLP chatbots, automated query resolution, and real-time speech analytics."
+    ],
+    "pricing": [
+      "We offer three tiers: Starter (Free tier with 1,000 requests/mo), Professional ($29/month with voice support), and Enterprise (Custom pricing with dedicated SLA).",
+      "Our plans start with a Free Trial, followed by Professional at $29/mo and Enterprise customized solutions. Visit our website for detailed breakdown."
+    ],
+    "password_reset": [
+      "To reset your password, click on the 'Forgot Password' link on the login page. Enter your registered email address, and we will send you a password reset link.",
+      "You can reset your account password by navigating to Account Settings > Security > Reset Password, or requesting an email recovery code."
+    ],
+    "account_help": [
+      "For account management, visit your Profile Settings dashboard. You can update your email, profile picture, security preferences, or manage your subscription.",
+      "You can manage your account details easily in the user profile menu. Contact support if you need help recovering account access."
+    ],
+    "order_status": [
+      "To track your order, please provide your 8-digit Order ID. You can also view live tracking updates under your account's 'My Orders' tab.",
+      "Your order status can be checked anytime in the Orders section of your profile, or by quoting your Order Confirmation ID."
+    ],
+    "cancel_order": [
+      "Orders can be cancelled within 2 hours of placement directly from your account dashboard under 'My Orders'. If the item has already shipped, you can initiate a return upon arrival.",
+      "To cancel an unfulfilled order, navigate to 'My Orders' and select 'Cancel Order'. If processed already, our team can help issue a return label."
+    ],
+    "refund": [
+      "Our refund policy allows full refunds within 7 days of purchase for eligible items. Standard processing takes 3-5 business days back to your original payment method.",
+      "Refunds are processed within 3-5 business days upon request approval. Items must be returned in original condition within 7 days."
+    ],
+    "payment": [
+      "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, Apple Pay, Google Pay, and encrypted online wire transfers.",
+      "You can complete payments via major credit/debit cards, PayPal, UPI, or Apple Pay. All transactions are 256-bit SSL encrypted."
+    ],
+    "technical_support": [
+      "If you are facing technical errors, please try refreshing your browser or clearing browser cache. You can also report technical bugs to tech-support@vocamind.ai with error details.",
+      "Our technical team is ready to assist! Try clearing cache or updating your application. For system bugs, reach out at tech-support@vocamind.ai."
+    ],
+    "complaint": [
+      "We sincerely apologize for any inconvenience caused. We take complaints very seriously. Please share details with us at feedback@vocamind.ai so a manager can investigate.",
+      "We are deeply sorry for your experience. Please let us know what went wrong, and our escalation team will address your concern immediately."
+    ],
+    "general_question": [
+      "VocaMind is an academic college project demonstrating an end-to-end Voice-Enabled AI Chatbot using Speech Recognition, Deep Learning (BiLSTM), and Speech Synthesis.",
+      "VocaMind combines web-based Speech Recognition, Deep Learning intent classification with Keras Bidirectional LSTM, and Text-to-Speech playback."
+    ],
+    "fallback": [
+      "I'm not completely sure I understood your question. Could you please rephrase it or ask something about our services, working hours, or order status?",
+      "I didn't quite catch that. Could you rephrase your question so I can assist you better?",
+      "I'm sorry, I couldn't understand that clearly. Please try asking in a different way."
+    ]
+  }
+}

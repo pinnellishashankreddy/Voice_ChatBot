@@ -1,0 +1,235 @@
+{
+  "intents": [
+    {
+      "intent": "greeting",
+      "examples": [
+        "Hello",
+        "Hi there",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "Greetings",
+        "Howdy",
+        "Hi, can you help me?",
+        "Hello chatbot",
+        "Hey VocaMind",
+        "Hi"
+      ]
+    },
+    {
+      "intent": "goodbye",
+      "examples": [
+        "Bye",
+        "Goodbye",
+        "See you later",
+        "Have a nice day",
+        "Catch you later",
+        "I am leaving now",
+        "Talk to you soon",
+        "Exit chat",
+        "Bye bye",
+        "Goodnight"
+      ]
+    },
+    {
+      "intent": "thanks",
+      "examples": [
+        "Thank you",
+        "Thanks a lot",
+        "Thank you so much",
+        "I appreciate your help",
+        "That was very helpful",
+        "Awesome, thanks",
+        "Thanks for the assistance",
+        "Great, thank you!"
+      ]
+    },
+    {
+      "intent": "help",
+      "examples": [
+        "Can you help me?",
+        "I need assistance",
+        "What can you do?",
+        "Help me please",
+        "Show me options",
+        "How do I use this system?",
+        "I'm stuck",
+        "Support needed",
+        "What are your features?"
+      ]
+    },
+    {
+      "intent": "working_hours",
+      "examples": [
+        "What are your working hours?",
+        "When are you open?",
+        "What time do you close?",
+        "When can I visit?",
+        "Are you open today?",
+        "What are your business hours?",
+        "Are you open on weekends?",
+        "When does customer service close?",
+        "Opening hours"
+      ]
+    },
+    {
+      "intent": "location",
+      "examples": [
+        "Where are you located?",
+        "What is your address?",
+        "Where is your office?",
+        "How can I find your store?",
+        "What city are you based in?",
+        "Give me your physical address",
+        "Location details",
+        "Where is the headquarters?"
+      ]
+    },
+    {
+      "intent": "contact",
+      "examples": [
+        "How can I contact customer support?",
+        "What is your phone number?",
+        "Can I email you?",
+        "Give me your contact details",
+        "How to reach customer care?",
+        "Support email address",
+        "Is there a phone number to call?",
+        "Contact info"
+      ]
+    },
+    {
+      "intent": "services",
+      "examples": [
+        "What services do you offer?",
+        "What products do you provide?",
+        "Tell me about your services",
+        "What can your company do for me?",
+        "Overview of services",
+        "What features do you support?",
+        "List of available services"
+      ]
+    },
+    {
+      "intent": "pricing",
+      "examples": [
+        "How much does it cost?",
+        "What are your pricing plans?",
+        "Is there a free trial?",
+        "What is the subscription fee?",
+        "Are there any hidden charges?",
+        "Tell me about your prices",
+        "Cost breakdown",
+        "How expensive is your service?"
+      ]
+    },
+    {
+      "intent": "password_reset",
+      "examples": [
+        "I forgot my password",
+        "How do I reset my password?",
+        "Can't log into my account",
+        "Change my password",
+        "Password recovery",
+        "Reset account password",
+        "Lost my login details",
+        "Locked out of account"
+      ]
+    },
+    {
+      "intent": "account_help",
+      "examples": [
+        "How do I create an account?",
+        "How to update profile details?",
+        "Manage account settings",
+        "Delete my account",
+        "Account configuration",
+        "Change email address",
+        "Update profile picture"
+      ]
+    },
+    {
+      "intent": "order_status",
+      "examples": [
+        "Where is my order?",
+        "Check order status",
+        "Track my delivery",
+        "Has my package shipped?",
+        "When will my order arrive?",
+        "Order tracking info",
+        "Is my shipment on the way?"
+      ]
+    },
+    {
+      "intent": "cancel_order",
+      "examples": [
+        "I want to cancel my order",
+        "How do I cancel a purchase?",
+        "Stop shipment",
+        "Cancel purchase request",
+        "Can I cancel an order placed today?",
+        "Abort my order"
+      ]
+    },
+    {
+      "intent": "refund",
+      "examples": [
+        "What is your refund policy?",
+        "How do I get a refund?",
+        "I want my money back",
+        "Can I return an item for a refund?",
+        "Refund process details",
+        "When will I get my refund?",
+        "Money back guarantee"
+      ]
+    },
+    {
+      "intent": "payment",
+      "examples": [
+        "What payment methods do you accept?",
+        "Can I pay with credit card?",
+        "Do you support PayPal or UPI?",
+        "Payment options",
+        "Is my payment secure?",
+        "Billing inquiries",
+        "Supported payment gateways"
+      ]
+    },
+    {
+      "intent": "technical_support",
+      "examples": [
+        "I am experiencing a technical glitch",
+        "The application is crashing",
+        "System error occurred",
+        "Website is not loading",
+        "Bug report",
+        "Fix technical issue",
+        "App stopped working"
+      ]
+    },
+    {
+      "intent": "complaint",
+      "examples": [
+        "I have a complaint",
+        "Your service is terrible",
+        "I am disappointed with my experience",
+        "I want to report bad service",
+        "File a complaint",
+        "Escalate an issue",
+        "Unsatisfied customer"
+      ]
+    },
+    {
+      "intent": "general_question",
+      "examples": [
+        "Tell me more about VocaMind",
+        "Who created this chatbot?",
+        "Is this an AI voice chatbot?",
+        "How does VocaMind work?",
+        "What technology powers VocaMind?",
+        "Explain speech recognition"
+      ]
+    }
+  ]
+}
